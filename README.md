@@ -9,7 +9,7 @@
 - ⚡ Fun fact 0x3: My first experience startup was in 2019
 - ⚡ Fun fact 0x4: My first Hackaton experience was in 2020
 
-## 🦄 Startupts
+## 🦄 Startups
  - [Alita Electric Skates](https://i-do-not-stand-by-in-the-presence-of-evil.com/projects) - Author of the idea
  - [Kvirin Smart SIEM Defense](https://security-band.com/kvirinssd) -  PM/Core developer
 
@@ -20,6 +20,6 @@
 - :airplane: https://t.me/M0nte_CarlO
 - :octocat: https://github.com/M0nteCarl0/
 - [Reddit](https://www.reddit.com/user/TechNotarius)
-
+- Discord ID 576446336145162260
 
 
