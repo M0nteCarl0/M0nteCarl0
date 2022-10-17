@@ -21,7 +21,7 @@
  
 
 ## 👯💻 OSS projects open for collaboration 
- - [FPD Iray api reconstruction](https://gitlab.com/M0nteCarl0/iray-api-reconstruction) - X-Ray FPD [Iray](https://www.iraygroup.com/site/productList?nid=15&lang=EN) api & licence generation OSS project  
+ - [FPD Iray api reconstruction](https://gitlab.com/M0nteCarl0/iray-api-reconstruction) - X-Ray FPD [Iray](https://www.iraygroup.com/site/productList?nid=15&lang=EN) api reconstruction & licence generation OSS project  
  - [Mellzi](https://github.com/M0nteCarl0/Mellzi) - X-Ray FPD [Rayense](https://www.rayenceusa.com/) api & firmware reconstruction OSS project
  - [Open Comunication Module](https://github.com/M0nteCarl0/OpenComunicationModule) - USB Full speed ST STM32F407 based  "Swiss knife" communication module   
 
