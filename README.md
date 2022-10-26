@@ -1,4 +1,4 @@
-# Alex Molotaliev
+# Alex 
 
 - 🔭 I'm currently working on various projects in Embedded area (uC ,Reverse Engineering & Security) & Network area(SIEM system)
 - 🌱 I'm currently learning FinTech,  advanced SCA/DFA, ML/DL  
