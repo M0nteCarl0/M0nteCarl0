@@ -31,7 +31,7 @@
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
-- :airplane: https://t.me/M0nte_CarlO
+- :airplane: https://t.me/TechNotarius
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
