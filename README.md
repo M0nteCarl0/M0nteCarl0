@@ -35,7 +35,6 @@
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
-- Discord ID 576446336145162260
-
+- Discord ID: TechNotarius#8268
 
 
