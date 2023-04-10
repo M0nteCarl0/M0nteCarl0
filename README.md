@@ -35,7 +35,7 @@
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
-- [Kaggle](https://www.kaggle.com/alexandermolotaliev/)
+- [Kaggle](https://www.kaggle.com/m0ntecarl0)
 - Discord ID: TechNotarius#8268
 
 
