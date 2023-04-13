@@ -32,6 +32,7 @@
 <!-- ## Where to find me -->
 
 - :airplane: https://t.me/TechNotarius
+- [Telegram channel](https://t.me/AmSecure)
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
