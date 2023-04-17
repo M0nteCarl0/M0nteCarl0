@@ -38,5 +38,6 @@
 - [Reddit](https://www.reddit.com/user/TechNotarius)
 - [Kaggle](https://www.kaggle.com/m0ntecarl0)
 - Discord ID: TechNotarius#8268
+- [Streamlit Data Science and ML portfolio](https://m0ntecarl0-data-science-projects-portfolio-portfolio-app-foqosn.streamlit.app)
 
 
