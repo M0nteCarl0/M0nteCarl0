@@ -32,6 +32,7 @@
  Comming soon..
 
 ##  🏆Kaggle certificates
+- [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
 
 
