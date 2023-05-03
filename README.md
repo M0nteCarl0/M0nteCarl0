@@ -31,6 +31,10 @@
 ## 🏆 СTF Ranking
  Comming soon..
 
+##  🏆Kaggle certificates
+- [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
+
+
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
