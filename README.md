@@ -33,7 +33,7 @@
 
 ##  🏆Kaggle certificates
 - [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
-- [intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
+- [Intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
 - [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
 
 
