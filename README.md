@@ -36,6 +36,7 @@
 - [Intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
 - [Time series](https://www.kaggle.com/learn/certification/m0ntecarl0/time-series)
 - [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
+- [Feature engineering](https://www.kaggle.com/learn/certification/m0ntecarl0/feature-engineering)
 
 
 ## :mailbox: How to reach me
