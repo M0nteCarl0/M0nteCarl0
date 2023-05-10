@@ -37,6 +37,7 @@
 - [Time series](https://www.kaggle.com/learn/certification/m0ntecarl0/time-series)
 - [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
 - [Data cleaning](https://www.kaggle.com/learn/certification/m0ntecarl0/data-cleaning)
+- [Data visualization](https://www.kaggle.com/learn/certification/m0ntecarl0/data-visualization)
 - [Feature engineering](https://www.kaggle.com/learn/certification/m0ntecarl0/feature-engineering)
 
 
