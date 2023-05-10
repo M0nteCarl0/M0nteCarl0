@@ -32,6 +32,7 @@
  Comming soon..
 
 ## 🏆 Kaggle certificates
+- [Intro to sql](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-sql)
 - [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
 - [Intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
 - [Time series](https://www.kaggle.com/learn/certification/m0ntecarl0/time-series)
