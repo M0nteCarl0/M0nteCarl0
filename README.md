@@ -34,6 +34,7 @@
 ## 🏆 Kaggle certificates
 - [Intro to deep learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-deep-learning)
 - [Intro to sql](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-sql)
+- [Advanced sql](https://www.kaggle.com/learn/certification/m0ntecarl0/advanced-sql)
 - [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
 - [Intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
 - [Machine learning explainability](https://www.kaggle.com/learn/certification/m0ntecarl0/machine-learning-explainability)
