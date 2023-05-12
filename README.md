@@ -36,6 +36,7 @@
 - [Intro to sql](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-sql)
 - [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
 - [Intermediate machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intermediate-machine-learning)
+- [Machine learning explainability](https://www.kaggle.com/learn/certification/m0ntecarl0/machine-learning-explainability)
 - [Time series](https://www.kaggle.com/learn/certification/m0ntecarl0/time-series)
 - [Pandas](https://www.kaggle.com/learn/certification/m0ntecarl0/pandas)
 - [Data cleaning](https://www.kaggle.com/learn/certification/m0ntecarl0/data-cleaning)
