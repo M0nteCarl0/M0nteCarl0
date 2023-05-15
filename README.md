@@ -49,6 +49,7 @@
 
 ## 🏆 Julia Academy certificates
 - [Parallel Computing](https://juliaacademy.com/courses/552107/certificate)
+- [Julia for Data Science](https://juliaacademy.com/courses/937702/certificate?certificate_first_issued=true)
 
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
