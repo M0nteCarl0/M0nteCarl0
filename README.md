@@ -34,6 +34,7 @@
 ## 🏆 Kaggle certificates
 - [Intro to deep learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-deep-learning)
 - [Intro to sql](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-sql)
+- [Intro to ai ethics](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-ai-ethics)
 - [Advanced sql](https://www.kaggle.com/learn/certification/m0ntecarl0/advanced-sql)
 - [Computer vision](https://www.kaggle.com/learn/certification/m0ntecarl0/computer-vision)
 - [Intro to machine learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-machine-learning)
