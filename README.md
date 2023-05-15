@@ -47,6 +47,8 @@
 - [Geospatial analysis](https://www.kaggle.com/learn/certification/m0ntecarl0/geospatial-analysis)
 - [Feature engineering](https://www.kaggle.com/learn/certification/m0ntecarl0/feature-engineering)
 
+## 🏆 Julia Academy certificates
+- [Parallel Computing](https://juliaacademy.com/courses/552107/certificate)
 
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
