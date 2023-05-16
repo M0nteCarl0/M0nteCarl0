@@ -48,8 +48,8 @@
 - [Feature engineering](https://www.kaggle.com/learn/certification/m0ntecarl0/feature-engineering)
 
 ## 🏆 Julia Academy certificates
-- [Parallel Computing](https://juliaacademy.com/courses/552107/certificate)
-- [Julia for Data Science](https://juliaacademy.com/courses/937702/certificate?certificate_first_issued=true)
+- [Parallel Computing](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-parallel-computing%20.pdf)
+- [Julia for Data Science](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-julia-for-data-science.pdf)
 
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
