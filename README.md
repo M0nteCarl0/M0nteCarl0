@@ -51,6 +51,7 @@
 - [Parallel Computing](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-parallel-computing%20.pdf)
 - [Julia for Data Science](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-julia-for-data-science.pdf)
 - [Introduction to dataframes](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/1-introduction-to-dataframes-jl.pdf)
+- [Completion for foundations of machine learning](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-foundations-of-machine-learning.pdf)
 
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
