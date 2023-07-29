@@ -27,7 +27,7 @@
 ## 🕸️ Web based python projects
 - [Web based cipher/decipher application](https://cryptograph.streamlit.app/)
 
-## Github gists
+## 📝 Github gists
 [Gists](https://gist.github.com/M0nteCarl0)
 
 ## 🏆 СTF Ranking
