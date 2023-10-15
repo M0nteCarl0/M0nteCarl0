@@ -32,6 +32,9 @@
 
 ## 🏆 СTF Ranking
  Comming soon..
+ 
+## 🤖 ML & DS projects and workshops
+- [Yandex Workshop - Network anomalies classification](https://github.com/M0nteCarl0/Yandex_workshop_network_anomalies_classification)
 
 ## 🏆 Kaggle certificates
 - [Intro to ai ethics](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-ai-ethics)
