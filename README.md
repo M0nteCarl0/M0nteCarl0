@@ -68,6 +68,7 @@
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
 - [Kaggle](https://www.kaggle.com/m0ntecarl0)
+- [HuggingFace]( https://huggingface.co/M0nteCarl0)
 - [Stepik](https://stepik.org/users/288281439)
 - Discord ID: TechNotarius#8268
 - [Streamlit Data Science and ML portfolio](https://data-science-projects-portfolio.streamlit.app/) - In construction
