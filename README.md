@@ -62,7 +62,7 @@
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
-- :airplane: https://t.me/TechNotarius
+- :airplane: https://t.me/OxxxyMoronn
 - [Telegram channel](https://t.me/AmSecure)
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
@@ -72,5 +72,4 @@
 - [Stepik](https://stepik.org/users/288281439)
 - Discord ID: TechNotarius#8268
 - [Streamlit Data Science and ML portfolio](https://data-science-projects-portfolio.streamlit.app/) - In construction
-
 
