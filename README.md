@@ -67,6 +67,7 @@
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
+- [Leetcode](https://leetcode.com/m0nte_carl0/)
 - [Kaggle](https://www.kaggle.com/m0ntecarl0)
 - [HuggingFace]( https://huggingface.co/M0nteCarl0)
 - [Stepik](https://stepik.org/users/288281439)
