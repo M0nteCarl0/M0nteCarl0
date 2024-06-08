@@ -64,6 +64,7 @@
 
 - :airplane: https://t.me/OxxxyMoronn
 - [Telegram channel](https://t.me/AmSecure)
+- [Signal](https://signal.me/#eu/FLBB2OKaT3wPMZLzcz99zUrXfwzV2l2H3rxz_RRg7zWWbid0SMdFu7kW-W9bMTxj) 
 - :octocat: https://github.com/M0nteCarl0/
 - [Gitlab](https://gitlab.com/M0nteCarl0)
 - [Reddit](https://www.reddit.com/user/TechNotarius)
