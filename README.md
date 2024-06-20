@@ -59,6 +59,9 @@
 - [Completion for foundations of machine learning](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-foundations-of-machine-learning.pdf)
 - [Deep learning with Flux](https://github.com/M0nteCarl0/Achievements-And-Certificates/blob/main/Certificates/certificate-of-completion-for-deep-learning-with-flux-jl.pdf)
 
+## 🏆 Microsoft Learn achievements
+- [Train a machine learning model for predictive maintenance by using ML.NET Model Builder](https://learn.microsoft.com/api/achievements/share/en-us/M0nteCarl0/F2LBKJ5X?sharingId=426722D03242AD4F)
+
 ## :mailbox: How to reach me
 <!-- ## Where to find me -->
 
