@@ -36,6 +36,16 @@
 ## 🤖 ML & DS projects and workshops
 - [Yandex Workshop - Network anomalies classification](https://github.com/M0nteCarl0/Yandex_workshop_network_anomalies_classification)
 
+## Datasets
+ - [SCA complex dataset](https://www.kaggle.com/datasets/m0ntecarl0/rescure-tutorial-datasets)
+ - [SCA AES-128 ECB dataset](https://www.kaggle.com/datasets/m0ntecarl0/sca-aes-128-ecb-dataset)
+ - [SCA DES ECB cipher dataset](https://www.kaggle.com/datasets/m0ntecarl0/sca-des-ecb-dataset)
+ - [SCA XOR cipher dataset](https://www.kaggle.com/datasets/m0ntecarl0/sca-simple-xor-cipher-dataset)
+ - [SCA TEA cipher dataset](https://www.kaggle.com/datasets/m0ntecarl0/sca-cipher-tea-dataset)
+ - [SCA Simon cipher dataset](https://www.kaggle.com/datasets/m0ntecarl0/sca-simon-cipher-dataset)
+ - [FPD X-Ray frames dataset](https://www.kaggle.com/datasets/m0ntecarl0/x-ray-fpd-60-kv-bright-raw-frames-dataset-for-ml) 
+
+
 ## 🏆 Kaggle certificates
 - [Intro to ai ethics](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-ai-ethics)
 - [Intro to deep learning](https://www.kaggle.com/learn/certification/m0ntecarl0/intro-to-deep-learning)
