@@ -90,3 +90,8 @@
 - Discord ID: TechNotarius#8268
 - [Streamlit Data Science and ML portfolio](https://data-science-projects-portfolio.streamlit.app/) - In construction
 
+  ## Cryptptowallets
+  
+  - Etherium: 0xAa5e743DEb63676BC3282AbbCc9A760600F447cD
+  - Bitcoin: bc1qellkas7kmrzks3mnnpqp7ul7vsy9ya3k58s8ad
+
