@@ -88,6 +88,7 @@
 - [HuggingFace]( https://huggingface.co/M0nteCarl0)
 - [Stepik](https://stepik.org/users/288281439)
 - Discord ID: TechNotarius#8268
+- Coinbase network: oxxxymironn.cb.id
 - [Streamlit Data Science and ML portfolio](https://data-science-projects-portfolio.streamlit.app/) - In construction
 
   ## Cryptptowallets
